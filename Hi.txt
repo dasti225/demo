@@ -1,3 +1,5 @@
-print('Hiy bro')
-print('hh-ds')
-print()
+
+print('Hiy bro;')
+print('hh-ds;')
+print('sds;')
+
